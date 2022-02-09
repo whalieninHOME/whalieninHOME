@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://github.com/whalieninHOME">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=whalieninHOME&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whalieninHOME&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=whalieninHOME&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whalieninHOME&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
   <div style="display: inline_block"><br>
