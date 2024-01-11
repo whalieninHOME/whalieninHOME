@@ -1,9 +1,9 @@
 
 ## OLÁ, EU SOU ENNE BEATRIZ 👋 
 
-- 🐱‍👤 Atualmente sou uma iniciante em Front-End, como freelancer
-- 🌱 Estou aprendendo C#, com a intenção de me tornar Full-Stack.
-- 📫 Fale comigo contatoennecosta@gmail.com
+- 🐱‍👤 Atualmente sou uma iniciante em Front-End.
+- 🌱 Estou aprendendo com a intenção de me tornar Full-Stack.
+- 📫 Fale enne_beatriz@hotmail.com
 - ✨ Pronomes: ela/dela.
 
 <!---
